@@ -7,7 +7,7 @@ Hi there! I'm Achmad Farchan Hadi, a passionate Frontend Developer with a focus 
 Here are some of the technologies and tools I frequently work with:
 
 - 🐧 Languages: JavaScript (JS), TypeScript (TS)
-- 🐣 Frameworks/Libraries: React, Next
+- 🐣 Frameworks/Libraries: React.js, Next.js, Node.js, Express.js
 - 🐋 Tools: Vite, ESLint, Prettier
 - 🦋 Version Control: Git, GitHub
 - 🦘 Other: RESTful APIs, Responsive Design
