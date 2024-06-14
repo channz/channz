@@ -8,7 +8,7 @@ Here are some of the technologies and tools I frequently work with:
 
 - 🐧 Languages: JavaScript (JS), TypeScript (TS)
 - 🐣 Frameworks/Libraries: React.js, Next.js, Node.js, Express.js
-- 🐋 Tools: Vite, ESLint, Prettier
+- 🐋 Tools: Vite, Vercel, ESLint, Prettier, Postman, Figma
 - 🦋 Version Control: Git, GitHub
 - 🦘 Other: RESTful APIs, Responsive Design
 
